@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Curriculum web — Ángel Farías
 
 Sitio de portafolio personal construido con Next.js y preparado para desplegarse en Vercel.
@@ -26,3 +27,7 @@ Abre http://localhost:3000.
 - Foto y certificados: carpeta `public/`.
 
 Los enlaces de proyectos externos apuntan a las URL disponibles en la versión anterior del currículum. Comprueba que continúen publicados y accesibles antes de compartir el sitio.
+=======
+# curr-culum
+Currículum digital que me permita llegar a clientes y empresas para poder mostrar mis habilidades y sistemas para resolver problemas del dia a dia.
+>>>>>>> f9d21791565dd22835ded04d02c43a36f6dcd389
